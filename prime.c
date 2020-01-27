@@ -16,5 +16,6 @@ int main(void)
         else
             io_report(prime_candidate, "IS NOT a prime.");
     }
+	#pragma CTC APPEND
     return 0;
 }
